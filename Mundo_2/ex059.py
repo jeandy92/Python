@@ -1,0 +1,11 @@
+num1 = int(input("Digite um nmero: "))
+num2 = int(input("Digite um nmero: "))
+
+print(10*'¨', "MENU", 10*'¨')
+print('| [ 1 ] - SOMAR          |')
+print('| [ 2 ] - MULTI          |')
+print('| [ 3 ] - MAIOR          |')
+print('| { 4 ] - NOVOS NUMEROS  |')
+print('| [ 5 ] - SAIR           |')
+print('|                        |')
+print('|_______________________ |')

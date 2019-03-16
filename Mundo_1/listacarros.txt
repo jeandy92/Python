@@ -1,0 +1,428 @@
+A1
+A3
+A3 Sedan
+A4
+A4 Avant
+A5
+A6
+A7
+A8
+Accord
+Actyon
+Actyon Sports
+Agile
+Aircross
+Alaskan
+Altima
+Amarok
+AMG GT
+Argo
+Astra Hatch
+Astra Sedan
+ASX
+Azera
+B
+Blazer
+Bolt
+Bongo
+Boxer
+Boxster
+Boxster S
+Bravo
+C
+C3
+C3 Picasso
+C30
+C4
+C4 Cactus
+C4 Lounge
+C4 Pallas
+C4 Picasso
+C5
+C5 Tourer
+Cadenza
+California
+Camaro
+Camry
+Caoa Chery Arrizo 5
+Captiva
+Captur
+Carens
+Carnival
+Cayenne
+Cayman
+Cayman S
+Celer Hatch
+Celer Sedan
+Celta
+Cerato
+Chana Cargo
+Chana Family
+Chana Utility
+Cherokee
+Cielo Hatch
+Cielo Sedan
+City
+Civic
+Civic Si
+CLA
+Classe A
+Classe B
+Classe C
+Classe C 250 Turbo Sport
+Classe C 63 AMG Touring
+Classe CL
+Classe CLS 63 AMG
+Classe E
+Classe G
+Classe GL
+Classe GLK
+Classe S
+Classe S 400 Hybrid
+Classe SLK
+Classe SLS AMG
+Classe X
+Classic
+Clio
+Cobalt
+Compass
+Continental Flying Spur
+Continental Supersports Coupé
+Cooper
+Cooper Cabrio
+Cooper Countryman
+Cooper S Clubman-Hampton
+Corolla
+Corsa Hatch
+Corsa Sedã
+Courier
+CR-V
+Creta
+Cronos
+Crossfox
+Cruze
+Cruze Sport6
+CT200h
+D
+Daily 35S14
+DB9 Volante
+DBS Coupe
+DBS Volante
+Defender
+Discovery
+Discovery Sport
+Doblò
+Doblò Cargo
+DS3
+DS5
+Ducato
+Durango
+Duster
+E
+EC7
+Eclipse Cross
+EcoSport
+Edge
+Effa Hafei Furgão
+Effa Hafei Picape Baú
+Effa Hafei Picape Cabine Dupla
+Effa Hafei Picape Cabine Simples
+Effa Hafei Van
+Effa M100
+Elantra
+Equinox
+Equus
+Etios
+Etios Sedã
+F
+F-250
+F-Pace
+F-Type Coupé
+F599 GTO
+Face
+Fiat Mobi
+Fiat Toro
+Fiesta
+Fiesta Rocam Hatch
+Fiesta Rocam Sedan
+Fiorino
+Fit
+Fluence
+Focus
+Focus Fastback
+Forester
+Fortwo MHD
+Fortwo Passion Cabrio
+Fortwo Passion Coupé
+Fox
+Freelander 2
+Freemont
+Frontier
+Fusca
+Fusion
+G
+Gallardo LP 560 - 4
+Gallardo LP 560 - 4 Spyder
+GC2
+Ghibli
+GLA
+GLC
+GLE
+GLE Coupé
+Gol
+Gol G4
+Golf
+Golf Variant
+Gran Cabrio
+Gran Turismo
+Grand Cherokee
+Grand Livina
+Grand Siena
+Grand Tour
+GT-R
+H
+HB20
+HB20S
+HB20X
+Hilux
+Hoggar
+HR
+HR-V
+I
+i3
+i30
+i30 CW
+Idea
+Impreza Hatch
+Impreza Sedã
+iX35
+J
+J2
+J3
+J3 Turin
+J5
+J6
+Jac T50
+Jaguar I-Pace
+Jeep Renegade
+Jetta
+Jetta Variant
+Jimny
+Journey
+Jumper
+K
+Ka
+Ka+
+Kangoo Express
+Kicks
+Kombi
+Korando
+Kwid
+Kyron
+L
+L200 Outdoor
+L200 Savana
+L200 Triton
+Lancer
+Lancer Evolution X
+Leaf
+Legacy
+Linea
+Livina
+Logan
+M
+M2 Coupé
+Macan
+Mahindra Picape
+Mahindra SUV
+Malibu
+March
+Marruá
+Master
+Meriva
+MG 550
+MG 6
+Mille
+Mini Clubman
+Mohave
+Montana
+Mustang
+N
+New Fiesta
+New Tucson
+NX 200t
+O
+Omega
+One
+Onix
+Optima
+Oroch
+Outback
+Outlander
+P
+Pajero Dakar
+Pajero Full
+Pajero Sport
+Pajero TR4
+Palio
+Palio Adventure
+Panamera
+Parati
+Partner
+Passat
+Passat Variant
+Picanto
+Pick-up
+Polo
+Polo Sedan
+Portofino
+Prisma
+Prius
+Punto
+Q
+Q3
+Q5
+Q7
+QQ
+Quattroporte
+R
+R8
+R8 GT
+Range Rover Evoque
+Range Rover Sport
+Range Rover Vogue
+Ranger
+Rapide
+RAV4
+RCZ
+Rexton
+RS 3 Sportback
+RS 5
+RS6 Avant
+S
+S-18
+S-Cross
+S10
+S60
+Sandero
+Sandero RS
+Sandero Stepway
+Santa Fe
+Saveiro
+Sentra
+Série 1
+Série 1 Cabrio
+Série 1 Coupé
+Série 1 M
+Série 3 Cabrio
+Série 3 M3 Coupé
+Série 3 M3 Sedã
+Série 3 Sedã
+Série 5 Gran Turismo
+Série 5 Sedã
+Série 7 Sedã
+Siena EL
+Sonata
+Sonic
+Sorento
+Soul
+Space Cross
+SpaceFox
+Spin
+Sportage
+Strada
+SW4
+SX4
+Symbol
+T
+T-Cross
+T4
+T40
+T5
+T6
+Tiggo 2
+Tiguan
+Tiida Hatch
+Tiida Sedan
+Tivoli
+Topic Furgão
+Topic Passageiro
+Touareg
+Town & Country
+Towner Furgão
+Towner Jr
+Towner Passageiro
+Tracker
+Trailblazer
+Transit
+Tribeca
+TT
+TT Roadster
+Tucson
+U
+Uno
+Up!
+V
+V12 Vantage Coupe
+V40
+V8 Vantage Coupe
+V8 Vantage Roadster
+Vectra
+Vectra GT
+Velar
+Veloster
+Veracruz
+Versa
+Virage
+Virtus
+Vitara
+Vito
+Volvo XC40
+Voyage
+W
+Weekend
+WR-V
+Wrangler
+X
+X1
+X2
+X3
+X4
+X5
+X6
+X60
+XC60
+XC90
+XE
+XF
+XJ Supersport
+XKR
+Xsara Picasso
+Y
+Yaris
+Z
+Z4 Roadster
+Zafira
+Zoe
+#
+2008
+207
+207 Sedan
+207 SW
+208
+2500
+3008
+300C
+307
+308
+308 CC
+320
+408
+458
+500
+500 Abarth
+5008
+508
+530
+620
+911
